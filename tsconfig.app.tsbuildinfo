@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/pomodorocounter/pomodorocounter.tsx","./src/components/pomodorocounter/usehandlealarmsound.tsx","./src/components/pomodorocounter/usehandletimeinterval.tsx","./src/constants/global_constants.ts","./src/utils/getparsetime.ts"],"version":"5.6.3"}
